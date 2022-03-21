@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.exe
+C:\Users\akash\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.deps.json
+C:\Users\akash\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.runtimeconfig.json
+C:\Users\akash\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.dll
+C:\Users\akash\source\repos\Prime\Prime\bin\Debug\net6.0\ref\Prime.dll
+C:\Users\akash\source\repos\Prime\Prime\bin\Debug\net6.0\Prime.pdb
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.AssemblyInfo.cs
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.dll
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\ref\Prime.dll
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.pdb
+C:\Users\akash\source\repos\Prime\Prime\obj\Debug\net6.0\Prime.genruntimeconfig.cache

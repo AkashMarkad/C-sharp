@@ -1,0 +1,14 @@
+C:\Users\akash\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.exe
+C:\Users\akash\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.deps.json
+C:\Users\akash\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.runtimeconfig.json
+C:\Users\akash\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.dll
+C:\Users\akash\source\repos\Pattern\Pattern\bin\Debug\net6.0\ref\Pattern.dll
+C:\Users\akash\source\repos\Pattern\Pattern\bin\Debug\net6.0\Pattern.pdb
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.AssemblyInfo.cs
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.dll
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\ref\Pattern.dll
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.pdb
+C:\Users\akash\source\repos\Pattern\Pattern\obj\Debug\net6.0\Pattern.genruntimeconfig.cache

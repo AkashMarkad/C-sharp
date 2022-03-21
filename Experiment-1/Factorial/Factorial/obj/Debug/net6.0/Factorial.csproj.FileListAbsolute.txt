@@ -1,0 +1,14 @@
+C:\Users\akash\source\repos\Factorial\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\akash\source\repos\Factorial\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\akash\source\repos\Factorial\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\akash\source\repos\Factorial\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\akash\source\repos\Factorial\Factorial\bin\Debug\net6.0\ref\Factorial.dll
+C:\Users\akash\source\repos\Factorial\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\ref\Factorial.dll
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\akash\source\repos\Factorial\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
