@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\bin\Debug\net6.0\Argument_passing.exe
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\bin\Debug\net6.0\Argument_passing.deps.json
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\bin\Debug\net6.0\Argument_passing.runtimeconfig.json
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\bin\Debug\net6.0\Argument_passing.dll
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\bin\Debug\net6.0\ref\Argument_passing.dll
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\bin\Debug\net6.0\Argument_passing.pdb
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.AssemblyInfo.cs
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.dll
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\ref\Argument_passing.dll
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.pdb
+C:\Users\akash\source\repos\Argument_passing\Argument_passing\obj\Debug\net6.0\Argument_passing.genruntimeconfig.cache

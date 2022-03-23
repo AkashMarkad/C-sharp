@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\Class_demo\Class_demo\bin\Debug\net6.0\Class_demo.exe
+C:\Users\akash\source\repos\Class_demo\Class_demo\bin\Debug\net6.0\Class_demo.deps.json
+C:\Users\akash\source\repos\Class_demo\Class_demo\bin\Debug\net6.0\Class_demo.runtimeconfig.json
+C:\Users\akash\source\repos\Class_demo\Class_demo\bin\Debug\net6.0\Class_demo.dll
+C:\Users\akash\source\repos\Class_demo\Class_demo\bin\Debug\net6.0\ref\Class_demo.dll
+C:\Users\akash\source\repos\Class_demo\Class_demo\bin\Debug\net6.0\Class_demo.pdb
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.AssemblyInfo.cs
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.dll
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\ref\Class_demo.dll
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.pdb
+C:\Users\akash\source\repos\Class_demo\Class_demo\obj\Debug\net6.0\Class_demo.genruntimeconfig.cache
