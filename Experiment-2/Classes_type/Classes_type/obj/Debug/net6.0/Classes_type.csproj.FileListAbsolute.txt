@@ -1,0 +1,15 @@
+C:\Users\akash\source\repos\Classes_type\Classes_type\bin\Debug\net6.0\Classes_type.exe
+C:\Users\akash\source\repos\Classes_type\Classes_type\bin\Debug\net6.0\Classes_type.deps.json
+C:\Users\akash\source\repos\Classes_type\Classes_type\bin\Debug\net6.0\Classes_type.runtimeconfig.json
+C:\Users\akash\source\repos\Classes_type\Classes_type\bin\Debug\net6.0\Classes_type.dll
+C:\Users\akash\source\repos\Classes_type\Classes_type\bin\Debug\net6.0\ref\Classes_type.dll
+C:\Users\akash\source\repos\Classes_type\Classes_type\bin\Debug\net6.0\Classes_type.pdb
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.AssemblyInfo.cs
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.dll
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\ref\Classes_type.dll
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.pdb
+C:\Users\akash\source\repos\Classes_type\Classes_type\obj\Debug\net6.0\Classes_type.genruntimeconfig.cache
